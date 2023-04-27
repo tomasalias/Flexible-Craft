@@ -1,1 +1,2 @@
 # Flexible-Craft
+Oficiální soubor.
